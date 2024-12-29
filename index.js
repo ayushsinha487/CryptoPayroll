@@ -129,7 +129,7 @@ const contractABI = [
 		"type": "function"
 	}
 ]
-const contractAddress = "0x3C0316e139D4D15Fa0daFC03A253D714Aed0eC19";
+const contractAddress = "0x8dE38411a4a367Af22Efc02180Bba121AE92bE2d";
 
 let web3;
 let contract;
