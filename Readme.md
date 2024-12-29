@@ -12,11 +12,11 @@ CryptoPayroll is a blockchain-powered solution that leverages Ethereum-compatibl
 ## Contract Details
 
 - **Contract Address**: `0x8dE38411a4a367Af22Efc02180Bba121AE92bE2d`
-- **Network**: Neo X Testnet T4
+- **Network**: Neo X Mainnet
 
 ## Deployment
 
-- **Contract Address**: [View on Explorer](https://xt4scan.ngd.network/address/0x8dE38411a4a367Af22Efc02180Bba121AE92bE2d)
+- **Contract Address**: [View on Explorer](https://xexplorer.neo.org/address/0x8dE38411a4a367Af22Efc02180Bba121AE92bE2d)
 - **Coin Used**: GAS
 
 ## Smart Contract
